@@ -20,10 +20,4 @@ The visit to Indah Water's research center was a fascinating glimpse into the pr
 
 From the UTMDIGITAL presentation, I gained valuable insights into the University's digital ecosystem. Navigating through the UTM Data Centre unveiled the robust technological foundation supporting digital initiatives. Insights into various departments highlighted a comprehensive approach, addressing elements from user authentication to cloud services and internet security. This experience not only deepened my understanding of the role of technology in academic excellence but also offered practical insights into the management of a large-scale digital system, enriching my knowledge within the TIS field.
 
-## Ready to Dive into the Tech World
-
-In a nutshell, my TIS journey has been a mix of learning theories and getting hands-on. From Design Thinking projects focusing on human solutions to figuring out PC installation quirks, each step has deepened my TIS knowledge. Armed with these skills and a human touch, I'm ready to dive into the tech world and make a mark.
-
-Feel free to explore my repositories and get in touch.
-
-Happy coding! 🚀
+Thank You! 🚀
