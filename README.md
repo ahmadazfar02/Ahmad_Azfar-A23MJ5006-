@@ -12,6 +12,10 @@ Messing around with PC installation was more than just putting pieces together. 
 
 At Clarity Techworks, I got a taste of the lively Fintech world, learning stuff that jived with TIS principles. The focus on a skilled team, always learning, and using modern tools echoed what I'd been taught in TIS classes, making a clear connection between coursework and the real tech world.
 
+### Industrial Talk With Credence
+
+The industrial talk provided crucial insights for a thriving career in system development, emphasizing formal education, practical experience, networking, specialization, and continuous learning. It underscored the significance of building professional relationships and showcased success stories of individuals strategically planning their paths. Plus, the talk jump into the increasing role of AI in operations and analytics, citing examples from companies like Credence. This comprehensive guide fosters a proactive and strategic mindset for navigating the dynamic field of system development, acknowledging the evolving landscape and the impact of advanced technologies showcased by industry leaders like Credence.
+
 ### Indah Water's Research Center Visit
 
 The visit to Indah Water's research center was a fascinating glimpse into the practical applications of software engineering in wastewater management. I witnessed firsthand how intricate systems, particularly the Supervisory Control and Data Acquisition (SCADA) system, coordinate with electronic equipment like sensors to ensure effective wastewater treatment. This experience highlighted the pivotal role of software engineers in maintaining critical systems that impact public health and environmental safety.
